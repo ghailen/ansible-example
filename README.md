@@ -56,5 +56,13 @@ now lets install ansible with : sudo apt-get install ansible
 ![image](https://github.com/user-attachments/assets/b0a1102c-1202-4911-b346-e1c442fabe9b)
 
 after installing the ansible rerun the command : sudo apt update
+lets check the version of ansible : 
+![image](https://github.com/user-attachments/assets/5703877f-00e5-4ddb-9d7e-e4bb1bd67869)
+
+====================================================================
+Ansible project setup
+==============================================================
+![image](https://github.com/user-attachments/assets/ecc12b0b-a231-4b73-9bbf-d42a1be6a28a)
+
 
 
