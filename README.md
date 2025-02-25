@@ -38,6 +38,22 @@ for example connecting to the servers using ssh machine and executing the requir
 
 The extension of the playbook is YML.
 
+============================================================
+INSTALLING ANSIBLE
+============================================================
+https://discourse.ubuntu.com/t/install-ubuntu-on-wsl2-and-get-started-with-graphical-applications/26296
+![image](https://github.com/user-attachments/assets/b828e8d6-f9e2-43a0-bb49-f252f98dbc49)
+
+![image](https://github.com/user-attachments/assets/8f86ece6-204a-4526-9a14-b007a8c73515)
+
+i created a machine : with user : hailene and password : 1994
+
+for update security : suo apt update
+for adding gui : sudo apt install x11-apps (not necessary)
+
+now lets install ansible with : sudo apt-get install ansible
+![image](https://github.com/user-attachments/assets/b0a1102c-1202-4911-b346-e1c442fabe9b)
+
 
 
 
