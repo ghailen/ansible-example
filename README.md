@@ -10,3 +10,34 @@ This is a sample example of playbook:
 
 ![image](https://github.com/user-attachments/assets/ca6b9144-26bb-4c4c-abba-a341cb49375b)
 
+lets try first to get access to a shell linux command using this site: https://sdf.org/mkacct.cgi
+New SDF Shell Account Information
+CONTACT E-MAIL:
+LOGIN:
+PERSONAL URL: 	ghylenovic13@gmail.com
+ghailene
+http://sdf.org/~ghailene
+and connect to your server using putty
+
+now i connected using putty:
+![image](https://github.com/user-attachments/assets/d17049c7-d0b5-42b2-a929-0b77d234bf9c)
+putty is more helpful with interface.
+
+but you can use directly bash ui : like this 
+![image](https://github.com/user-attachments/assets/d3f7343e-9e14-43b8-9196-c8c1c7b30c4b)
+and then you are connected
+
+===============================================================================
+WHY Ansible is Agentless ?
+===============================================================================
+![image](https://github.com/user-attachments/assets/59681d63-b595-4c25-b7c3-b1c14353de3e)
+
+The ansible is installed in developer machine. prepare playbook , add instrcution playbook and run it.
+for example connecting to the servers using ssh machine and executing the required command. thats why is agentless
+![image](https://github.com/user-attachments/assets/e0da1064-f07d-4047-b856-7e3045b20034)
+
+The extension of the playbook is YML.
+
+
+
+
