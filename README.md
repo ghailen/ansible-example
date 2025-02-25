@@ -64,5 +64,7 @@ Ansible project setup
 ==============================================================
 ![image](https://github.com/user-attachments/assets/ecc12b0b-a231-4b73-9bbf-d42a1be6a28a)
 
+1) Project Structure:
+   
 
 
