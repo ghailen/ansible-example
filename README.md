@@ -48,12 +48,13 @@ https://discourse.ubuntu.com/t/install-ubuntu-on-wsl2-and-get-started-with-graph
 
 i created a machine : with user : hailene and password : 1994
 
-for update security : suo apt update
+for update security : sudo apt update
 for adding gui : sudo apt install x11-apps (not necessary)
 
 now lets install ansible with : sudo apt-get install ansible
+
 ![image](https://github.com/user-attachments/assets/b0a1102c-1202-4911-b346-e1c442fabe9b)
 
-
+after installing the ansible rerun the command : sudo apt update
 
 
